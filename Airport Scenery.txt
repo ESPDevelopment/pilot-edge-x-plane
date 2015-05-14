@@ -11,7 +11,7 @@ Class Bravo Airspace:
 
 --------------------------------------------------------------
 Class Charlie Airspace:
-[ ] KBUR Burbank Bob Hope Airport
+[x] KBUR Burbank Bob Hope Airport
 [ ] KONT Ontario International Airport
 [ ] KPSP Palm Springs International Airport
 [ ] KRIV March Air Reserve Base
