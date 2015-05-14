@@ -1,0 +1,62 @@
+Legend
+[x] Default X-Plane 10.35 scenery
+[e] ESP custom scenery
+
+--------------------------------------------------------------
+Class Bravo Airspace:
+[ ] KLAS Las Vegas McCarran International Airport
+[ ] KLAX Los Angeles International Airport
+[ ] KSAN San Diego Lindbergh Field
+[ ] KSFO San Francisco International Airport
+
+--------------------------------------------------------------
+Class Charlie Airspace:
+[ ] KBUR Burbank Bob Hope Airport
+[ ] KONT Ontario International Airport
+[ ] KPSP Palm Springs International Airport
+[ ] KRIV March Air Reserve Base
+[ ] KSBA Santa Barbara Municipal Airport
+[ ] KSNA Santa Ana / John Wayne Airport-Orange County
+
+--------------------------------------------------------------
+Class Delta Airspace:
+[x] KBFL Bakersfield / Meadows Field
+[e] KCMA Camarillo Airport
+[e] KCNO Chino Airport
+[ ] KCRQ Carlsbad / McClellan-Palomar Airport
+[ ] KEMT El Monte Airport
+[ ] KFUL Fullerton Municipal Airport
+[ ] KGCN Grand Canyon National Park Airport
+[ ] KHHR Hawthorne / Jack Northrop Field
+[ ] KHND Henderson Executive Airport
+[ ] KIFP Bullhead City Laughlin Airport
+[ ] KLGB Long Beach / Daugherty Field
+[ ] KMHV Mojave Airport
+[ ] KMYF Montgomery Field
+[ ] KNYL Yuma International Airport
+[e] KOXR Oxnard Airport
+[ ] KPOC La Verne / Brackett Field
+[ ] KRAL Riverside Municipal Airport
+[ ] KRNM Ramona Airport
+[ ] KSBD San Bernadino International Airport
+[ ] KSBP San Luis County Regional Airport
+[ ] KSDM Brown Field Municipal Airport
+[ ] KSEE Gillespie Field
+[ ] KSMO Santa Monica Municipal Airport
+[ ] KSMX Santa Maria Public / Capt. G. Allan Hancock Field
+[ ] KTOA Torrance / Zamperini Field
+[ ] KVCV Victorville / Southern California Logistics Airport
+[ ] KVGT North Las Vegas Airport
+[ ] KVNY Van Nuys Airport
+[ ] KWHP Los Angeles / Whiteman Airport
+[ ] KWJF General William J Fox Airfield
+
+--------------------------------------------------------------
+Class Echo (Surface) Airspace:
+[ ] KBLH Blythe Airport
+[ ] KDXZ St. George Municipal Airport (NEW)
+[ ] KEED Needles Airport
+[ ] KIPL Imperial County Airport
+[ ] KLPC Lompoc Airport
+[ ] KSGU St. George Municipal Airport (OLD)
+[ ] KTRM Palm Springs / Jacqueline Cochran Regional Airport
