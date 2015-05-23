@@ -23,7 +23,7 @@ Class Delta Airspace:
 [x] KBFL Bakersfield / Meadows Field
 [e] KCMA Camarillo Airport
 [e] KCNO Chino Airport
-[ ] KCRQ Carlsbad / McClellan-Palomar Airport
+[e] KCRQ Carlsbad / McClellan-Palomar Airport
 [ ] KEMT El Monte Airport
 [ ] KFUL Fullerton Municipal Airport
 [ ] KGCN Grand Canyon National Park Airport
