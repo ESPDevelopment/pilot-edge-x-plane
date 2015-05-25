@@ -90,7 +90,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="2136"/>
+                <sel id="191"/>
             </selection>
         </object>
         <object class="WED_AirportNode" id="1538" parent_id="1537">
@@ -189,8 +189,6 @@
             <sources/>
             <viewers/>
             <children>
-                <child id="2049"/>
-                <child id="2023"/>
                 <child id="5"/>
                 <child id="1153"/>
             </children>
@@ -9010,58 +9008,6 @@
             <point heading="0.00" latitude="33.129759502" longitude="-117.279448625"/>
             <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/Tree.obj" show_level="3 Tons"/>
         </object>
-        <object class="WED_OverlayImage" id="2023" parent_id="4">
-            <sources/>
-            <viewers/>
-            <children>
-                <child id="2024"/>
-            </children>
-            <hierarchy hidden="0" locked="1" name="KCRQ_A1.tif"/>
-            <overlay_image alpha="1.0" file_path="D:\GitHub\pilot-edge-x-plane\Orthoimagery\KCRQ Carlsbad\KCRQ_A1.tif"/>
-        </object>
-        <object class="WED_Ring" id="2024" parent_id="2023">
-            <sources/>
-            <viewers/>
-            <children>
-                <child id="2025"/>
-                <child id="2026"/>
-                <child id="2027"/>
-                <child id="2028"/>
-            </children>
-            <hierarchy hidden="0" locked="0" name="Image Boundary"/>
-        </object>
-        <object class="WED_TextureNode" id="2025" parent_id="2024">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Corner 4"/>
-            <point latitude="33.118836978" longitude="-117.294777924"/>
-            <texture_node s="0.0000" t="0.0000"/>
-        </object>
-        <object class="WED_TextureNode" id="2026" parent_id="2024">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="unnamed entity"/>
-            <point latitude="33.132367092" longitude="-117.294823137"/>
-            <texture_node s="0.0000" t="1.0000"/>
-        </object>
-        <object class="WED_TextureNode" id="2027" parent_id="2024">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="unnamed entity"/>
-            <point latitude="33.132404108" longitude="-117.278742045"/>
-            <texture_node s="1.0000" t="1.0000"/>
-        </object>
-        <object class="WED_TextureNode" id="2028" parent_id="2024">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="unnamed entity"/>
-            <point latitude="33.118873974" longitude="-117.278699298"/>
-            <texture_node s="1.0000" t="0.0000"/>
-        </object>
         <object class="WED_Ring" id="2029" parent_id="2030">
             <sources/>
             <viewers/>
@@ -9232,58 +9178,6 @@
                 <child id="2030"/>
             </children>
             <hierarchy hidden="0" locked="0" name="NW Offices"/>
-        </object>
-        <object class="WED_OverlayImage" id="2049" parent_id="4">
-            <sources/>
-            <viewers/>
-            <children>
-                <child id="2050"/>
-            </children>
-            <hierarchy hidden="0" locked="1" name="KCRQ_B1.tif"/>
-            <overlay_image alpha="1.0" file_path="D:\GitHub\pilot-edge-x-plane\Orthoimagery\KCRQ Carlsbad\KCRQ_B1.tif"/>
-        </object>
-        <object class="WED_Ring" id="2050" parent_id="2049">
-            <sources/>
-            <viewers/>
-            <children>
-                <child id="2051"/>
-                <child id="2052"/>
-                <child id="2053"/>
-                <child id="2054"/>
-            </children>
-            <hierarchy hidden="0" locked="0" name="Image Boundary"/>
-        </object>
-        <object class="WED_TextureNode" id="2051" parent_id="2050">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Corner 4"/>
-            <point latitude="33.118873974" longitude="-117.278699298"/>
-            <texture_node s="0.0000" t="0.0000"/>
-        </object>
-        <object class="WED_TextureNode" id="2052" parent_id="2050">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="unnamed entity"/>
-            <point latitude="33.132404108" longitude="-117.278742045"/>
-            <texture_node s="0.0000" t="1.0000"/>
-        </object>
-        <object class="WED_TextureNode" id="2053" parent_id="2050">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="unnamed entity"/>
-            <point latitude="33.132439048" longitude="-117.262660924"/>
-            <texture_node s="1.0000" t="1.0000"/>
-        </object>
-        <object class="WED_TextureNode" id="2054" parent_id="2050">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="unnamed entity"/>
-            <point latitude="33.118908896" longitude="-117.262620643"/>
-            <texture_node s="1.0000" t="0.0000"/>
         </object>
         <object class="WED_SimpleBezierBoundaryNode" id="2055" parent_id="2035">
             <sources/>
@@ -10057,6 +9951,7 @@
             <item value="1231"/>
             <item value="1353"/>
             <item value="1786"/>
+            <item value="1849"/>
             <item value="1861"/>
             <item value="1969"/>
             <item value="1980"/>

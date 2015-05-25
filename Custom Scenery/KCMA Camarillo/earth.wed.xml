@@ -47,7 +47,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="2072"/>
+                <sel id="102"/>
             </selection>
         </object>
         <object class="WED_AirportNode" id="1026" parent_id="893">
@@ -109,7 +109,6 @@
             <children>
                 <child id="102"/>
                 <child id="101"/>
-                <child id="2072"/>
             </children>
             <hierarchy hidden="0" locked="0" name="world"/>
         </object>
@@ -357,6 +356,7 @@
             <viewers/>
             <children>
                 <child id="378"/>
+                <child id="2072"/>
                 <child id="2071"/>
                 <child id="2079"/>
                 <child id="2073"/>
@@ -8810,7 +8810,7 @@
             </children>
             <hierarchy hidden="0" locked="1" name="Runways"/>
         </object>
-        <object class="WED_Group" id="2072" parent_id="4">
+        <object class="WED_Group" id="2072" parent_id="102">
             <sources/>
             <viewers/>
             <children>
@@ -9090,15 +9090,15 @@
         </pref>
         <pref name="doc/export_target" value="1"/>
         <pref name="doc/use_feet" value="1"/>
-        <pref name="map/east" value="-119.049918"/>
-        <pref name="map/north" value="34.239726"/>
+        <pref name="map/east" value="-119.043011"/>
+        <pref name="map/north" value="34.242750"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="34.189219"/>
+        <pref name="map/south" value="34.186195"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="-119.116050"/>
+        <pref name="map/west" value="-119.122957"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -9163,13 +9163,13 @@
         <pref name="map_Tower Viewpoint_Tower Height" value="25.000000"/>
         <pref name="map_Vertex_Snap To Vertices" value="1"/>
         <pref name="map_Windsock_Lit" value="0"/>
-        <pref name="window/height" value="1117"/>
+        <pref name="window/height" value="1038"/>
         <pref name="window/main_split" value="277"/>
         <pref name="window/main_split2" value="1542"/>
-        <pref name="window/prev_split" value="424"/>
-        <pref name="window/prop_split" value="573"/>
+        <pref name="window/prev_split" value="434"/>
+        <pref name="window/prop_split" value="602"/>
         <pref name="window/width" value="1920"/>
-        <pref name="window/x_loc" value="-8"/>
+        <pref name="window/x_loc" value="1912"/>
         <pref name="window/y_loc" value="-8"/>
     </prefs>
 </doc>
