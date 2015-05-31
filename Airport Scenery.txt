@@ -26,7 +26,7 @@ Class Delta Airspace:
 [e] KCNO Chino Airport
 [e] KCRQ Carlsbad / McClellan-Palomar Airport
 [g] KEMT El Monte Airport
-[ ] KFUL Fullerton Municipal Airport
+[e] KFUL Fullerton Municipal Airport
 [ ] KGCN Grand Canyon National Park Airport
 [ ] KHHR Hawthorne / Jack Northrop Field
 [ ] KHND Henderson Executive Airport
