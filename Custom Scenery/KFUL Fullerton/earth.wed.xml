@@ -55,7 +55,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="960"/>
+                <sel id="921"/>
             </selection>
         </object>
         <object class="WED_AirportNode" id="514" parent_id="506">
@@ -90,7 +90,6 @@
             <viewers/>
             <children>
                 <child id="5"/>
-                <child id="960"/>
             </children>
             <hierarchy hidden="0" locked="0" name="world"/>
         </object>
@@ -119,15 +118,15 @@
                 <child id="1005"/>
                 <child id="1049"/>
                 <child id="1038"/>
-                <child id="1004"/>
-                <child id="981"/>
                 <child id="1010"/>
+                <child id="1004"/>
                 <child id="1011"/>
+                <child id="981"/>
                 <child id="921"/>
+                <child id="960"/>
             </children>
             <hierarchy hidden="0" locked="0" name="Fullerton Muni"/>
-            <airport elevation="29.3" has_atc="1" icao="KFUL" kind="Airport"/>
-            <WED_airport scenery_id="40184"/>
+            <airport elevation="29.3" has_atc="1" icao="KFUL" kind="Airport" scenery_id="-1"/>
         </object>
         <object class="WED_AirportNode" id="517" parent_id="516">
             <sources/>
@@ -8972,7 +8971,7 @@
             <point latitude="33.872951656" longitude="-117.978517952"/>
             <texture_node s="1.0000" t="0.0000"/>
         </object>
-        <object class="WED_Group" id="960" parent_id="4">
+        <object class="WED_Group" id="960" parent_id="5">
             <sources/>
             <viewers/>
             <children>
@@ -10704,15 +10703,15 @@
         </pref>
         <pref name="doc/export_target" value="2"/>
         <pref name="doc/use_feet" value="1"/>
-        <pref name="map/east" value="-117.982659"/>
-        <pref name="map/north" value="33.873528"/>
+        <pref name="map/east" value="-117.982363"/>
+        <pref name="map/north" value="33.873766"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="33.871206"/>
+        <pref name="map/south" value="33.870968"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="-117.985558"/>
+        <pref name="map/west" value="-117.985854"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -10780,8 +10779,8 @@
         <pref name="window/height" value="1038"/>
         <pref name="window/main_split" value="369"/>
         <pref name="window/main_split2" value="1502"/>
-        <pref name="window/prev_split" value="411"/>
-        <pref name="window/prop_split" value="457"/>
+        <pref name="window/prev_split" value="421"/>
+        <pref name="window/prop_split" value="467"/>
         <pref name="window/width" value="1920"/>
         <pref name="window/x_loc" value="1912"/>
         <pref name="window/y_loc" value="-8"/>
